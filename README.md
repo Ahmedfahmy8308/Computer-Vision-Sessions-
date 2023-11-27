@@ -3,7 +3,7 @@
 </h3>
 
 
-- 👨‍💻 As I am a instructor in the IEEE Kafr El-Sheikh Student Branch this is my content
+- As I am an instructor in IEEE Kafr El-Sheikh Student Branch this is my content
 - you can see our road map in session 1 
 - in this repo you can find python file and jupyter notebook file for each sessoin
 
